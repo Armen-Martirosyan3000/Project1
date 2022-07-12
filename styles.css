@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@600&display=swap');
+.aaa{
+    font-family: 'Edu QLD Beginner', cursive;
+    margin-left: 1200px;
+    color: #39951c;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+.bbb{
+  text-align: center; 
+  margin-left: 200px; 
+  margin-right: 200px;
+  color: blue;
+  border-style: ridge;
+  border-color: aquamarine;
+  border-width: 10px;
+  background: yellow;
+}
+.www{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+ }
+ 
+ .iii{
+    font-size: 30px;
+    color: red;
+    
+    }
+.ddd{
+    width: 300px;
+    height: 250px;
+    border: 10px ridge aquamarine; 
+    margin: 10px;  
+    text-align: center;   
+}
+
+
+.eee{
+    color: blue;
+    background-color: rgb(242, 168, 141);
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 450px;
+    border: 10px ridge aquamarine;
+}
+
+
+    .zzz{
+        background: blue;
+        color: yellow;
+        width: 600px;
+    }
+    
+    .zzz:hover {
+        color: white;
+        background: red;
+      }
+
+      button{
+        margin-left: 630px;
+        background: url(https://2ch.hk/fag/thumb/16281518/16417495513510s.jpg);
+        width: 250px;
+        height: 270px;
+        background-repeat: no-repeat;
+        border: 10px ridge aquamarine;
+        
+    }
+    .mmm{
+        margin-top: 225px;
+        font-size: 20px;
+        color: red;
+        color: white;
+        background: red;
+    }
+    button:hover {
+        
+        background: url(https://i.quotev.com/k2g2bbh26mla.jpg);
+      }
+
+    footer{ margin-left: 310px;
+         text-align: center;
+        border: 10px ridge aquamarine;
+        width: 900px;
+        height: 30px;
+        color: yellow;
+        background: blue;
+        font-size: 25px;
+    }
+       
